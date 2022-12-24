@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
-import "./App.css"
+import './App.css';
 import Categories from './components/Categories';
 import BooksPage from './components/BooksPage';
 
