@@ -66,7 +66,7 @@ const AddBook = () => {
           <option value="Contemporary">Contemporary</option>
         </select>
 
-        <button type="submit">ADD BOOK</button>
+        <button className="primary-btn" type="submit">ADD BOOK</button>
       </form>
     </section>
   );
