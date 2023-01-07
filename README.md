@@ -1,10 +1,3 @@
-  <br/>
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/microverseinc/readme-template/master/murple_logo.png" alt="logo" width="140"  height="auto" />
-</div>
-  <br/>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -18,8 +11,10 @@
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
+    - [Usage](#usage)
     - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -36,10 +31,9 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- HTML & CSS
 - JavaScript
 - React
-
+- redux
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,11 +79,19 @@ Install this project with:
    npm install
 ```
 
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+   npm install
+```
+
 ### Run tests
 
 ```sh
 
- Type the following command in your terminal: npm start 
+ Type the following command in your terminal: npm test
 
 ```
 
@@ -107,6 +109,17 @@ Install this project with:
 - Twitter: [@twitterhandle](https://twitter.com/ahmed_najash)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/ahmed-najash-286a671ab)
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Features I will add to the project.
+
+- [ ] **[Implement styling]**
+- [ ] **[connect to api]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,6 +154,6 @@ I would like to thank microverse for a good documentation.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./License) licensed.
+This project is [MIT](https://github.com/jash-debug/bookstore/blob/initialize-project-components/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
