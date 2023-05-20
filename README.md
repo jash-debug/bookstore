@@ -1,3 +1,8 @@
+  <br/>
+<div align="center">
+    <h3><b>Bookstore CMS</b></h3>
+</div>
+  <br/>
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -6,7 +11,7 @@
 - [📖 Bookstore ](#-bookstore-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
-  - [🚀 Live Demo ](#-live-demo-)
+    - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -37,13 +42,12 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+<!-- Features -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+### Key Features <a name="key-features"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link]()
+- **[Connects with Api]**
+- **[Has Add and Delete functionality]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,8 +122,8 @@ To run the project, execute the following command:
 
 > Features I will add to the project.
 
-- [ ] **[Implement styling]**
-- [ ] **[connect to api]**
+- [ ] **[Improve styling]**
+- [ ] **[Improve Categories Section]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,6 +158,6 @@ I would like to thank microverse for a good documentation.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/jash-debug/bookstore/blob/initialize-project-components/LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
